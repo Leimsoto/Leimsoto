@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,bots,python,vscode,html,mysql,debian,java,discord&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,python,vscode,html,mysql,debian,java&perline=6" />
   </a>
 </p>
 <br />
@@ -45,7 +45,6 @@
 <p align="center">
 	<a href="mailto:leimsoto@hotmail.com"><img width="75px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://t.me/HastLort"><img width="100px" src="https://img.shields.io/badge/Telegram-24A1DE?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://discord.gg/QXGqUdPZ"><img width="88px" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
 
 
 	
