@@ -14,7 +14,7 @@
 ㅤㅤ
 ## Systems and telecommunications engineering student
 
-<img align="right" alt="GIF" height="165px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <pre>
 - 👨‍💻 I am learning software analysis and development
@@ -23,7 +23,6 @@
 ㅤㅤ
 - 💪🏼 Career Goal: Senior Developer and Linux System Administration expertise
 ㅤㅤ
-- 💻 Specialized Bot Developer for Discord platforms 
 </pre>
 
 
@@ -34,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,python,vscode,html,mysql,debian,java&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,python,vscode,html,mysql,debian,java&perline=5" />
   </a>
 </p>
 <br />
